@@ -1,5 +1,5 @@
 # LEE CYBER SOLUTIONS IT HOME LAB
-## Day 1 – Windows Server Installation
+## Day 1 (09/24/2026) – Windows Server Installation
 
 ### Virtualization
 Oracle VirtualBox
