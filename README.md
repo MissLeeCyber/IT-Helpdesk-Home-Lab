@@ -13,8 +13,9 @@ The goal is to develop practical troubleshooting and system administration skill
 * **Virtualization:** Oracle VirtualBox
 * **Server:** Windows Server 2025
 * **Client:** Windows 11
-* **Domain:** ACME.LOCAL
-* **Organization:** ACME Corporation
+* **Domain:** LEE.LOCAL
+* **Server:** LCS-DC01
+* **Organization:** LEE CYBER SOLUTIONS
 
 ## Skills Practiced
 
