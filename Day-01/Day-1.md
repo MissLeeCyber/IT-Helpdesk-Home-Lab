@@ -18,7 +18,7 @@ Desktop Experience
 
 ### Status
 Windows Server successfully installed.
-Server renamed to ACME-DC01.
+Server renamed to LCS-DC01.
 
 ### Notes
 Windows Server .iso file was corrupted during initial download, so the VM did not boot the first time. Redownloaded the .iso, checked properties to verify file integrity, mounted the new .iso into the VM, and restarted. VM successfully booted to Windows Server.
