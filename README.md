@@ -31,9 +31,32 @@ The goal is to develop practical troubleshooting and system administration skill
 * Security Fundamentals
 * Technical Documentation
 
-## Home Lab Projects
+## Home Lab Project Portfolio
 
-Projects and exercises will be added as the lab progresses.
+### Lab Documentation
+
+* [Day 1 – Windows Server Installation](Day-01/Day-1.md)
+* [Day 2 – Windows Administration & Troubleshooting](Day-02/Day-2.md)
+
+### Troubleshooting Tickets
+
+* [Ticket 001 – Slow Computer](Troubleshooting-Tickets/Ticket-001-Slow-Computer.md)
+* [Ticket 002 – Printer Not Working](Troubleshooting-Tickets/Ticket-002-Printer-Not-Working.md)
+* [Ticket 003 – Wi-Fi Not Working](Troubleshooting-Tickets/Ticket-003-WiFi-Not-Working.md)
+* [Ticket 004 – Application Crash](Troubleshooting-Tickets/Ticket-004-Application-Crash.md)
+* [Ticket 005 – Windows Startup Error](Troubleshooting-Tickets/Ticket-005-Windows-Startup-Error.md)
+
+### Upcoming Projects
+
+* Active Directory
+* DNS & DHCP
+* Windows 11 Domain Client
+* Group Policy
+* Network Troubleshooting
+* PowerShell Automation
+* Microsoft 365 Administration
+* Security Incident Lab
+
 
 ### Current Progress
 
