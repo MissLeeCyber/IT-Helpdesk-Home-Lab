@@ -5,7 +5,7 @@
 Oracle VirtualBox
 
 ### Server
-ACME-DC01
+LCS-DC01
 
 ### Operating System
 Windows Server 2025 Standard Evaluation
